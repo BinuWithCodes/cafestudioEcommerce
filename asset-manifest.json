@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CafeBakeryEcommerce/static/css/main.070e53f8.css",
-    "main.js": "/CafeBakeryEcommerce/static/js/main.b0e27c2b.js",
-    "static/js/787.5a1e64b2.chunk.js": "/CafeBakeryEcommerce/static/js/787.5a1e64b2.chunk.js",
-    "index.html": "/CafeBakeryEcommerce/index.html",
-    "main.070e53f8.css.map": "/CafeBakeryEcommerce/static/css/main.070e53f8.css.map",
-    "main.b0e27c2b.js.map": "/CafeBakeryEcommerce/static/js/main.b0e27c2b.js.map",
-    "787.5a1e64b2.chunk.js.map": "/CafeBakeryEcommerce/static/js/787.5a1e64b2.chunk.js.map"
+    "main.css": "/cafestudioEcommerce/static/css/main.070e53f8.css",
+    "main.js": "/cafestudioEcommerce/static/js/main.bd7dcb1d.js",
+    "static/js/787.35ea2e3c.chunk.js": "/cafestudioEcommerce/static/js/787.35ea2e3c.chunk.js",
+    "index.html": "/cafestudioEcommerce/index.html",
+    "main.070e53f8.css.map": "/cafestudioEcommerce/static/css/main.070e53f8.css.map",
+    "main.bd7dcb1d.js.map": "/cafestudioEcommerce/static/js/main.bd7dcb1d.js.map",
+    "787.35ea2e3c.chunk.js.map": "/cafestudioEcommerce/static/js/787.35ea2e3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.070e53f8.css",
-    "static/js/main.b0e27c2b.js"
+    "static/js/main.bd7dcb1d.js"
   ]
 }
