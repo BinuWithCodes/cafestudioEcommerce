@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CafeBakeryEcommerce/static/css/main.070e53f8.css",
+    "main.js": "/CafeBakeryEcommerce/static/js/main.b0e27c2b.js",
+    "static/js/787.5a1e64b2.chunk.js": "/CafeBakeryEcommerce/static/js/787.5a1e64b2.chunk.js",
+    "index.html": "/CafeBakeryEcommerce/index.html",
+    "main.070e53f8.css.map": "/CafeBakeryEcommerce/static/css/main.070e53f8.css.map",
+    "main.b0e27c2b.js.map": "/CafeBakeryEcommerce/static/js/main.b0e27c2b.js.map",
+    "787.5a1e64b2.chunk.js.map": "/CafeBakeryEcommerce/static/js/787.5a1e64b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.070e53f8.css",
+    "static/js/main.b0e27c2b.js"
+  ]
+}
