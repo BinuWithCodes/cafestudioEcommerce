@@ -22,7 +22,6 @@ const ContextCart = () => {
         </header>
 
         <section className="main-cart-section">
-          <h1>shopping Cart</h1>
           <p className="total-items">
             you have <span className="total-items-count">{totalItem} </span>{" "}
             items in shopping cart
@@ -47,7 +46,7 @@ const ContextCart = () => {
       </header>
 
       <section className="main-cart-section">
-        <h1>shopping Cart</h1>
+        <h1 text-align="center">CafeStudioBakery</h1>
         <p className="total-items">
           you have <span className="total-items-count">{totalItem} </span> items
           in shopping cart
